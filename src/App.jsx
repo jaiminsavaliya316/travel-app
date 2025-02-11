@@ -1,13 +1,13 @@
 import Header from "./components/Header"
 import Footer from "./components/Footer"
-import Content from "./components/Content"
+import Entry from "./components/Entry"
 
 function App() {
 
   return (
     <>
       <Header />
-      <Content />
+      <Entry />
       <Footer />
     </>
   )
